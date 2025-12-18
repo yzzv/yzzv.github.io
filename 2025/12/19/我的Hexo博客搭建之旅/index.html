@@ -2113,7 +2113,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
     root: '/',
     debug: "env",
     default: {"avatar":"https://unpkg.com/volantis-static@0.0.1660614606622/media/placeholder/avatar/round/3442075.svg","link":"https://unpkg.com/volantis-static@0.0.1660614606622/media/placeholder/link/8f277b4ee0ecd.svg","cover":"https://unpkg.com/volantis-static@0.0.1660614606622/media/placeholder/cover/76b86c0226ffd.svg","image":"https://unpkg.com/volantis-static@0.0.1660614606622/media/placeholder/image/2659360.svg"},
-    lastupdate: new Date(1766074651354),
+    lastupdate: new Date(1766075316746),
     cdn: {
       izitoast_css: 'https://unpkg.com/izitoast@1.4.0/dist/css/iziToast.min.css',
       izitoast_js: 'https://unpkg.com/izitoast@1.4.0/dist/js/iziToast.min.js',
@@ -2873,9 +2873,9 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
 
   function check_giscus() {
     if (volantis.dark.mode === "dark") {
-      volantis.giscus.Theme = '';
+      volantis.giscus.Theme = 'dark';
     } else {
-      volantis.giscus.Theme = '';
+      volantis.giscus.Theme = 'light';
     }
 
     return document.getElementById("giscus_container");
@@ -2884,7 +2884,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
   function p_giscus() {
     const HEAD = check_giscus();
     if (!HEAD) return;
-    let cfg = Object.assign({"repo":"yzzv/blog-pinglun","repo_id":"R_kgDOQrLRTA","category":"Announcements","category_id":"DIC_kwDOQrLRTM4Cz-E2","mapping":"pathname","reactions_enabled":"1","input_position":"top","theme":"preferred_color_scheme","lang":"zh-CN"},pdata.commentConfig)
+    let cfg = Object.assign({"repo":"yzzv/yzzv.github.io","repo-id":"你的博客仓库 repo-id","category":"Announcements","category-id":"你的分类 category-id","mapping":"pathname","reactions-enabled":"1","emit-metadata":"0","lang":"zh-CN","theme":{"light":"light","dark":"dark"}},pdata.commentConfig)
     const script = document.createElement('script');
     script.setAttribute('src', 'https://giscus.app/client.js');
     Object.keys(cfg).forEach(k=>{
