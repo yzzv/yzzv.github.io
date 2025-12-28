@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-12-28T01:31:57.179Z</updated>
+  <updated>2025-12-28T14:01:40.301Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>国内智能应用开发者的福音！Inferri网站</title>
+    <link href="http://example.com/2025/12/28/%E5%9B%BD%E5%86%85%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E8%80%85%E7%9A%84%E7%A6%8F%E9%9F%B3%EF%BC%81Inferri%E7%BD%91%E7%AB%99/"/>
+    <id>http://example.com/2025/12/28/%E5%9B%BD%E5%86%85%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E8%80%85%E7%9A%84%E7%A6%8F%E9%9F%B3%EF%BC%81Inferri%E7%BD%91%E7%AB%99/</id>
+    <published>2025-12-28T09:53:15.000Z</published>
+    <updated>2025-12-28T14:01:40.301Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="作者原话："><a href="#作者原话：" class="headerlink" title="作者原话："></a>作者原话：</h2><blockquote><p>我挖出了GitHub上3000+个AI项目，这一刻，彻底告别碎片化信息。我结合人工筛选，把GitHub上目前最活跃、最有价值的3800多个AI开源项目全部扒了下来。但这还不够。单纯的列表只是堆砌，没有价值。所以我按照自己的阅历和理解，建立了一套详细的分类体系（包含近70个分类），把这3000多个项目安安稳稳地放进了对应的格子里。今天，我想把这个网站正式介绍给你们。我给它取名为Inferri，本意是推理（Inferrence）的变体。因为我相信，大模型的推理生成能力能够重塑世界，未来大有可为。</p></blockquote><hr><p>我个人感觉这个项目挺好的，也推动了AI的更新迭代，看看谁家的AI更容易适(调)应(教)成符合我们需求的产品。</p><p>其实，我还是有些感慨，从我了解AI还是ChatGTP 2.0，短短几年，就已经更新迭代，衍生出这么多产品，而且，从国内的豆包、deepseek等一些AI软件的上市，我基本上不怎么用GTP了<del>(主要是GTP要钱:D)</del></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;作者原话：&quot;&gt;&lt;a href=&quot;#作者原话：&quot; class=&quot;headerlink&quot; title=&quot;作者原话：&quot;&gt;&lt;/a&gt;作者原话：&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;我挖出了GitHub上3000+个AI项目，这一刻，彻底告别碎片化信息。我结合人工筛选，把</summary>
+      
+    
+    
+    
+    
+    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="AI" scheme="http://example.com/tags/AI/"/>
+    
+  </entry>
   
   <entry>
     <title>微信被忽视的一些小功能</title>
