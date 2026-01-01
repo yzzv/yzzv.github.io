@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-12-30T14:51:36.117Z</updated>
+  <updated>2026-01-01T02:40:04.613Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2026新年快乐~</title>
+    <link href="http://example.com/2026/01/01/2026%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90/"/>
+    <id>http://example.com/2026/01/01/2026%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90/</id>
+    <published>2026-01-01T00:25:18.000Z</published>
+    <updated>2026-01-01T02:40:04.613Z</updated>
+    
+    <content type="html"><![CDATA[<p>2025已经是过去式了，但是前进的脚步还没停止。已经折腾了半个月的博客，从最开始的看着教程一步步搭建，到后来的上传图库脚本，经历了太多的报错🌿  </p><p>日子慢慢过，博客慢慢更。记录生活碎片，整理折腾心得，把折腾的快乐写进每一页博客里。祝大家2026新年快乐😆🎉</p><p>美女图坐镇</p><p><img src="https://cdn.jsdelivr.net/gh/yzzv/hexo-img/images/xnkl.jpg" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/yzzv/hexo-img/images/xnkl.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="xnkl.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;2025已经是过去式了，但是前进的脚步还没停止。已经折腾了半个月的博客，从最开始的看着教程一步步搭建，到后来的上传图库脚本，经历了太多的报错🌿  &lt;/p&gt;
+&lt;p&gt;日子慢慢过，博客慢慢更。记录生活碎片，整理折腾心得，把折腾的快乐写进每一页博客里。祝大家2026新年快乐😆�</summary>
+      
+    
+    
+    
+    
+    <category term="2026" scheme="http://example.com/tags/2026/"/>
+    
+    <category term="新年快乐" scheme="http://example.com/tags/%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90/"/>
+    
+    <category term="其他" scheme="http://example.com/tags/%E5%85%B6%E4%BB%96/"/>
+    
+  </entry>
   
   <entry>
     <title>宝藏网站推荐</title>
@@ -163,9 +190,9 @@
     
     
     
-    <category term="switch" scheme="http://example.com/tags/switch/"/>
-    
     <category term="其他" scheme="http://example.com/tags/%E5%85%B6%E4%BB%96/"/>
+    
+    <category term="switch" scheme="http://example.com/tags/switch/"/>
     
     <category term="CDN" scheme="http://example.com/tags/CDN/"/>
     
