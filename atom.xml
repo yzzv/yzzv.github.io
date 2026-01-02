@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2026-01-01T02:40:04.613Z</updated>
+  <updated>2026-01-02T01:13:08.494Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20.26km新年新气象</title>
+    <link href="http://example.com/2026/01/01/20-26km%E6%96%B0%E5%B9%B4%E6%96%B0%E6%B0%94%E8%B1%A1/"/>
+    <id>http://example.com/2026/01/01/20-26km%E6%96%B0%E5%B9%B4%E6%96%B0%E6%B0%94%E8%B1%A1/</id>
+    <published>2026-01-01T10:11:36.000Z</published>
+    <updated>2026-01-02T01:13:08.494Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/yzzv/hexo-img/images/2026.jpg" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/yzzv/hexo-img/images/2026.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="2026.jpg"></p><p>跑完腿疼膝盖疼😥<br>对于一个不经常跑步的人来说有点伤身体，建议不要学我</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/yzzv/hexo-img/images/2026.jpg&quot; class=&quot;lazyload&quot; data-srcset=&quot;https://cdn.jsdelivr.net/gh/yzzv/hexo-</summary>
+      
+    
+    
+    
+    
+    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+    <category term="其他" scheme="http://example.com/tags/%E5%85%B6%E4%BB%96/"/>
+    
+    <category term="跑步" scheme="http://example.com/tags/%E8%B7%91%E6%AD%A5/"/>
+    
+    <category term="2026" scheme="http://example.com/tags/2026/"/>
+    
+  </entry>
   
   <entry>
     <title>2026新年快乐~</title>
@@ -35,11 +63,11 @@
     
     
     
+    <category term="其他" scheme="http://example.com/tags/%E5%85%B6%E4%BB%96/"/>
+    
     <category term="2026" scheme="http://example.com/tags/2026/"/>
     
     <category term="新年快乐" scheme="http://example.com/tags/%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90/"/>
-    
-    <category term="其他" scheme="http://example.com/tags/%E5%85%B6%E4%BB%96/"/>
     
   </entry>
   
