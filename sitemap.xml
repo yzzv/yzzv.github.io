@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/mcfun/index.html</loc>
+    
+    <lastmod>2026-01-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2026/01/15/%E6%89%8B%E6%9C%BA%E6%80%8E%E4%B9%88%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</loc>
     
     <lastmod>2026-01-20</lastmod>
@@ -102,15 +111,6 @@
   
   <url>
     <loc>http://example.com/2026/01/01/20-26km%E6%96%B0%E5%B9%B4%E6%96%B0%E6%B0%94%E8%B1%A1/</loc>
-    
-    <lastmod>2026-01-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/mcfun/index.html</loc>
     
     <lastmod>2026-01-20</lastmod>
     
