@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>极昼博客</title>
+  <title>清茶小站</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
@@ -139,9 +139,9 @@
     
     
     
-    <category term="AI" scheme="http://example.com/tags/AI/"/>
-    
     <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="AI" scheme="http://example.com/tags/AI/"/>
     
   </entry>
   
